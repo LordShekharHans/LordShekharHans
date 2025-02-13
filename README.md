@@ -130,7 +130,14 @@
 
 ## 🐍 **GitHub Contributions** 🐍
 
-![Snake Animation](https://raw.githubusercontent.com/LordShekharHans/LordShekharHans/output/snake.svg)
+📌 *This represents my past GitHub activity. Check out my latest contributions below!* 
+
+⚠ **Note:** My previous account, [ShekharHans](https://github.com/ShekharHans), became unrecoverable due to unforeseen reasons. Now, I continue my journey with this account! 
+
+![image](https://github.com/user-attachments/assets/7df1eeb1-7ab5-4d82-9807-6871f9a4c386)
+
+
+
 
 ---
 
